@@ -1,16 +1,67 @@
-## Hi there 👋
+# Bruno Moura
 
-<!--
-**brunobsm88/brunobsm88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Architect | .NET Engineer | Cloud & DevOps
 
-Here are some ideas to get you started:
+Arquiteto de soluções com mais de 13 anos de experiência em engenharia de software, especializado em arquiteturas distribuídas, microsserviços e plataformas cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente atuo na evolução de sistemas críticos focados em mobilidade, conectando decisões de arquitetura com impacto real no negócio.
+
+---
+
+## 🧠 Principais áreas de atuação
+
+- Arquitetura de software
+- Microsserviços
+- Cloud Architecture
+- DevOps e CI/CD
+- Observabilidade
+- Escalabilidade de sistemas
+
+---
+
+## ⚙️ Stack Tecnológica
+
+**Backend**
+- C#
+- .NET
+- ASP.NET Core
+- APIs REST
+- Entity Framework
+- Dapper
+
+**Arquitetura**
+- Clean Architecture
+- Domain Driven Design (DDD)
+- CQRS
+- Event Driven Architecture
+- SOLID
+
+**Cloud & DevOps**
+- Azure
+- AWS
+- Docker
+- Kubernetes
+- GitHub Actions
+- Azure DevOps
+
+**Observabilidade**
+- Application Insights
+- OpenTelemetry
+- Prometheus
+- Grafana
+
+**Banco de dados**
+
+- SQL Server
+- PostgreSQL
+- MongoDB
+- Redis
+
+---
+
+## 🌎 Conecte-se comigo
+
+LinkedIn  
+https://www.linkedin.com/in/brunobsmmoura/
+
+---
